@@ -44,6 +44,23 @@ flowchart TD
 ## OUTPUT:
 Unallocated Space Analysis and Extracted Data Report
 
+<img width="1919" height="1006" alt="Screenshot 2025-09-25 104859" src="https://github.com/user-attachments/assets/fec8fc41-02a4-445b-a617-94c49ff26b88" />
+
+
+<img width="1920" height="1080" alt="Screenshot 2025-10-04 095558" src="https://github.com/user-attachments/assets/ace8dd6c-27a4-4434-9537-930ba3c87418" />
+
+
+
+<img width="1109" height="724" alt="Screenshot 2025-09-25 105829" src="https://github.com/user-attachments/assets/8c36504e-b3cf-4f8b-87f5-57bd10c241e5" />
+
+<img width="456" height="350" alt="Screenshot 2025-09-25 110432" src="https://github.com/user-attachments/assets/c0613558-fc92-4e22-a31b-32c47e3fe2f4" />
+
+<img width="1689" height="883" alt="Screenshot 2025-09-25 111722" src="https://github.com/user-attachments/assets/28bd5ec2-ffc7-4522-802f-f7cca5ce696c" />
+
+<img width="1679" height="893" alt="Screenshot 2025-09-25 112238" src="https://github.com/user-attachments/assets/8018d6ca-6e4a-4504-94b9-61ae67efcf50" />
+
+<img width="1910" height="852" alt="Screenshot 2025-09-25 112306" src="https://github.com/user-attachments/assets/87e9eac8-49a2-4e00-b561-6694bc071751" />
+
 ## RESULT:
 The unallocated space was successfully analyzed, data was extracted, and the digital investigation process was followed effectively.
 
